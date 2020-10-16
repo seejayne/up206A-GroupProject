@@ -8,7 +8,7 @@ This project proposal seeks to visualize affordable housing developments and cli
 
 Our research questions are: Are affordable housing developments mostly developed in disadvantaged areas? How can investments be distributed across the region equitably to ensure we don't create areas with high concentrations of poverty? Are climate change investments being equitable allocated in communities that have been historically  over-burdened by the effects of climate change? If not, who are these investments for?
 
-# An explanation of why it is important to you, why it matters to others, and what is at stake #
+### An explanation of why it is important to you, why it matters to others, and what is at stake ###
 
 For transparency it’s important to understand where State and Federal funding is being distributed and if these investments will be effective in changing the status quo. This can guide future investment and economic development in the region.
 
@@ -23,7 +23,7 @@ More importantly, time is of essence considering the exacerbating housing and cl
 
 California Tax Credit Allocation Committee (TCAC) Projects 
 
-[CA TCAC Projects Link](https://www.treasurer.ca.gov/ctcac/projects.asp)
+[CA TCAC Projects](https://www.treasurer.ca.gov/ctcac/projects.asp)
 This robust dataset details all existing multifamily housing projects developed using Low Income Housing Tax Credits (tax credits) in California (as of October 2019) The detailed spreadsheet includes a sheet for Los Angeles specifically. It includes information about things like the project, location, type of tax credit funding, housing type, number units, annual federal award, total state award, etc. 
 
 Communities of Concern
