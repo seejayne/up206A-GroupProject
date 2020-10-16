@@ -8,7 +8,7 @@ This project proposal seeks to visualize affordable housing developments and cli
 
 Our research questions are: Are affordable housing developments mostly developed in disadvantaged areas? How can investments be distributed across the region equitably to ensure we don't create areas with high concentrations of poverty? Are climate change investments being equitable allocated in communities that have been historically  over-burdened by the effects of climate change? If not, who are these investments for?
 
-An explanation of why it is important to you, why it matters to others, and what is at stake
+# An explanation of why it is important to you, why it matters to others, and what is at stake #
 
 For transparency it’s important to understand where State and Federal funding is being distributed and if these investments will be effective in changing the status quo. This can guide future investment and economic development in the region.
 
