@@ -22,11 +22,11 @@ More importantly, time is of essence considering the exacerbating housing and cl
 # Preliminary description of data sources
 
 California Tax Credit Allocation Committee (TCAC) Projects 
-https://www.treasurer.ca.gov/ctcac/projects.asp 
+[CA TCAC Projects Link](https://www.treasurer.ca.gov/ctcac/projects.asp)
 This robust dataset details all existing multifamily housing projects developed using Low Income Housing Tax Credits (tax credits) in California (as of October 2019) The detailed spreadsheet includes a sheet for Los Angeles specifically. It includes information about things like the project, location, type of tax credit funding, housing type, number units, annual federal award, total state award, etc. 
 
 Communities of Concern
-https://gisdata-scag.opendata.arcgis.com/datasets/communities-of-concern?geometry=-119.486%2C33.775%2C-116.870%2C34.174&selectedAttribute=ComConcern
+[SCAG Communities of Concern](https://gisdata-scag.opendata.arcgis.com/datasets/communities-of-concern?geometry=-119.486%2C33.775%2C-116.870%2C34.174&selectedAttribute=ComConcern) 
 This dataset identifies “Communities of Concern” as defined by SCAG. These areas are in the upper third (top 33.33%) in the SCAG region for both percentages of households in poverty and minority population
 
 Stormwater Projects in CA - CA Open Data Portal 
