@@ -1,0 +1,169 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R12654110
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2018 (5-Year Estimates)
+Dataset:          Social Explorer Tables: ACS 2018 (5-Year Estimates)
+Tables:
+
+      1. Race (Renter-Occupied Housing Units)
+         Universe:  Universe:  Renter-Occupied Housing Units
+         Name:      A03001B
+         Variables:
+            A03001B_001:   Renter-Occupied Housing Units:
+            A03001B_002:      White Alone Householder
+            A03001B_003:      Black or African American Alone Householder
+            A03001B_004:      American Indian and Alaska Native Alone Householder
+            A03001B_005:      Asian Alone Householder
+            A03001B_006:      Native Hawaiian and Other Pacific Islander Alone Householder
+            A03001B_007:      Some Other Race Alone Householder
+            A03001B_008:      Two or More Races Householder
+            A03001B_009:      White Alone, Not Hispanic or Latino Householder
+            A03001B_010:      Hispanic or Latino Householder
+
+
+      2. Median Household Income the Past 12 Months (In <DollarYear> Inflation-Adjusted Dollars) (Renter-Occupied Housing Units)
+         Universe:  Universe:  Renter-Occupied Housing Units
+         Name:      A14016
+         Variables:
+            A14016_001:   Median Household Income in the Past 12 Months (In Inflation-Adjusted Dollars)
+
+
+      3. Residents Paying More Than 30% or at least 50% of Income on Rent
+         Universe:  Renter-Occupied Housing Units
+         Name:      B18002
+         Variables:
+            B18002_001:   Renter-Occupied Housing Units:
+            B18002_002:      30 to 49 Percent
+            B18002_003:      50 percent or More
+
+
+      4. Ratio of Income in to Poverty Level (Summarized)
+         Universe:  Population for whom poverty status Is determined
+         Name:      B13004
+         Variables:
+            B13004_001:   Population for Whom Poverty Status Is Determined:
+            B13004_002:      Under 1.00 (Doing Poorly)
+            B13004_003:      1.00 to 1.99 (Struggling)
+            B13004_004:      Under 2.00 (Poor or Struggling)
+            B13004_005:      2.00 and Over (Doing Ok)
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      GEOID:          Geographic Identifier
+      NAME:           Name of Area
+      QName:          Qualifying Name
+      STUSAB:         State/U.S.-Abbreviation (USPS)
+      SUMLEV:         Summary Level
+      GEOCOMP:        Geographic Component
+      FILEID:         File Identification
+      LOGRECNO:       Logical Record Number
+      US:             US
+      REGION:         Region
+      DIVISION:       Division
+      STATECE:        State (Census Code)
+      STATE:          State (FIPS)
+      COUNTY:         County
+      COUSUB:         County Subdivision (FIPS)
+      PLACE:          Place (FIPS Code)
+      PLACESE:        Place (State FIPS + Place FIPS)
+      TRACT:          Census Tract
+      BLKGRP:         Block Group
+      CONCIT:         Consolidated City
+      AIANHH:         American Indian Area/Alaska Native Area/Hawaiian Home Land (Census)
+      AIANHHFP:       American Indian Area/Alaska Native Area/Hawaiian Home Land (FIPS)
+      AIHHTLI:        American Indian Trust Land/Hawaiian Home Land Indicator
+      AITSCE:         American Indian Tribal Subdivision (Census)
+      AITS:           American Indian Tribal Subdivision (FIPS)
+      ANRC:           Alaska Native Regional Corporation (FIPS)
+      CBSA:           Metropolitan and Micropolitan Statistical Area
+      CSA:            Combined Statistical Area
+      METDIV:         Metropolitan Division
+      MACC:           Metropolitan Area Central City
+      MEMI:           Metropolitan/Micropolitan Indicator Flag
+      NECTA:          New England City and Town Combined Statistical Area
+      CNECTA:         New England City and Town Area
+      NECTADIV:       New England City and Town Area Division
+      UA:             Urban Area
+      UACP:           Urban Area Central Place
+      CDCURR:         Current Congressional District ***
+      SLDU:           State Legislative District Upper
+      SLDL:           State Legislative District Lower
+      VTD:            Voting District
+      ZCTA3:          ZIP Code Tabulation Area (3-digit)
+      ZCTA5:          ZIP Code Tabulation Area (5-digit)
+      SUBMCD:         Subbarrio (FIPS)
+      SDELM:          School District (Elementary)
+      SDSEC:          School District (Secondary)
+      SDUNI:          School District (Unified)
+      UR:             Urban/Rural
+      PCI:            Principal City Indicator
+      TAZ:            Traffic Analysis Zone
+      UGA:            Urban Growth Area
+      BTTR:           Tribal Tract
+      BTBG:           Tribal Block Group
+      PUMA5:          Public Use Microdata Area - 5% File
+      PUMA1:          Public Use Microdata Area - 1% File
+      A03001B_001:    Renter-Occupied Housing Units
+      A03001B_002:    Renter-Occupied Housing Units: White Alone Householder
+      A03001B_003:    Renter-Occupied Housing Units: Black or African American Alone Householder
+      A03001B_004:    Renter-Occupied Housing Units: American Indian and Alaska Native Alone Householder
+      A03001B_005:    Renter-Occupied Housing Units: Asian Alone Householder
+      A03001B_006:    Renter-Occupied Housing Units: Native Hawaiian and Other Pacific Islander Alone Householder
+      A03001B_007:    Renter-Occupied Housing Units: Some Other Race Alone Householder
+      A03001B_008:    Renter-Occupied Housing Units: Two or More Races Householder
+      A03001B_009:    Renter-Occupied Housing Units: White Alone, Not Hispanic or Latino Householder
+      A03001B_010:    Renter-Occupied Housing Units: Hispanic or Latino Householder
+      A14016_001:     Median Household Income in the Past 12 Months (In Inflation-Adjusted Dollars) 
+      B18002_001:     Renter-Occupied Housing Units
+      B18002_002:     Renter-Occupied Housing Units: 30 to 49 Percent
+      B18002_003:     Renter-Occupied Housing Units: 50 percent or More
+      B13004_001:     Population for Whom Poverty Status Is Determined:
+      B13004_002:     Population for Whom Poverty Status Is Determined: Under 1.00 (Doing Poorly)
+      B13004_003:     Population for Whom Poverty Status Is Determined: 1.00 to 1.99 (Struggling)
+      B13004_004:     Population for Whom Poverty Status Is Determined: Under 2.00 (Poor or Struggling)
+      B13004_005:     Population for Whom Poverty Status Is Determined: 2.00 and Over (Doing Ok)
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2020
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R12654110
+
+If you have any questions contact info@socialexplorer.com
