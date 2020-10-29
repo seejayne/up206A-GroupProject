@@ -1,4 +1,5 @@
 # Mapping Affordable Housing and Climate Change Adaptation Investments
+Link to our project proposal:
 https://github.com/seejayne/up206A-GroupProject/blob/main/Group%20Assignments/readme.md
 
 ## Roles (only for groups)
