@@ -4,15 +4,18 @@ Group Project for Intro GIS
 # Project Proposal
 
 ## Introduction and research question
-This project proposal seeks to visualize affordable housing developments and climate change adaptation projects that have used any form of government funding such as federal, state or local funds, and what income populations and race populations do these investments serve. 
+What type of affordable housing is being built in areas that are highly vulnerable to climate change and overburdened by pollution?  
 
-Our research questions are: Are affordable housing developments mostly developed in disadvantaged areas? How can investments be distributed across the region equitably to ensure we don't create areas with high concentrations of poverty? Are climate change investments being equitable allocated in communities that have been historically  over-burdened by the effects of climate change? If not, who are these investments for?
+This project proposal seeks to visualize affordable housing developments and energy reduction programs that have used any form of government funding such as federal, state or local funds. Our project will focus in areas of high vulnerability to climate change and low-income census tracts. 
+
+Our research questions are: Are affordable housing developments mostly developed in disadvantaged areas? Are energy reduction programs being equitable allocated in communities that are over-burdened by the effects of climate change? If not, who are these investments for or where are they located?
 
 ### An explanation of why it is important to you, why it matters to others, and what is at stake 
 
 For transparency it’s important to understand where State and Federal funding is being distributed and if these investments will be effective in changing the status quo. This can guide future investment and economic development in the region.
 
 In addition, having access to a stable home and a healthy environment are important aspects for the well-being of our communities. It is vital to hold public institutions accountable to invest public funds where it is needed most. 
+
 
 ## Description of the spatial scope 
 We are interested in the Greater Los Angeles Region. The spatial component is important because housing is inherently place-based. Our region is still dealing with the impact of past racist policies that created geographic disparities that need investment to rectify. 
@@ -21,30 +24,25 @@ More importantly, time is of essence considering the exacerbating housing and cl
 
 ## Preliminary description of data sources
 
-#### California Tax Credit Allocation Committee (TCAC) Projects 
+#### HCIDLA Affordable Housing Projects List (2003 to Present) 
 
-[CA TCAC Projects](https://www.treasurer.ca.gov/ctcac/projects.asp)
-This robust dataset details all existing multifamily housing projects developed using Low Income Housing Tax Credits (tax credits) in California (as of October 2019) The detailed spreadsheet includes a sheet for Los Angeles specifically. It includes information about things like the project, location, type of tax credit funding, housing type, number units, annual federal award, total state award, etc. 
-
-#### Communities of Concern
-
-[SCAG Communities of Concern](https://gisdata-scag.opendata.arcgis.com/datasets/communities-of-concern?geometry=-119.486%2C33.775%2C-116.870%2C34.174&selectedAttribute=ComConcern) 
-This dataset identifies “Communities of Concern” as defined by SCAG. These areas are in the upper third (top 33.33%) in the SCAG region for both percentages of households in poverty and minority population
-
-#### Stormwater Projects in CA - CA Open Data Portal 
-
-[Stormwater Projects data](https://data.ca.gov/dataset/stormwater-projects/resource/9a480064-d136-4c21-bdef-f0488d7ca919)
-This data set includes all stormwater projects in CA to be built. It does not have a timeline of completion. The data set lists the projects that involve stormwater catchment projects that would either replenish underground water, or would be used directly for consumption. 
+[HCIDLA Affordable Housing](https://data.lacity.org/A-Livable-and-Sustainable-City/HCIDLA-Affordable-Housing-Projects-List-2003-to-Pr/mymu-zi3s)
+HCIDLA financed projects from 2003 to present. These projects are financed with programs including Affordable Housing Managed Pipeline, Supportive Housing Program, Affordable Housing Bond Program, and the Proposition HHH Supportive Housing Loan Program. This project list contains participants, property, units, construction and milestone information. Each line contains both site and project level information.
 
 #### Disadvantaged Communities
 
 [CalEnviroScreen Dataset](https://oehha.ca.gov/calenviroscreen/sb535)
 This dataset identifies “Disadvantaged Communities” which are targeted for investments that aim to improve public health, quality of life, and economic opportunity in California’s most burdened communities while also reducing pollution that causes climate change.
 
+### California Climate Investments Program 
+[California Climate Investments Program](https://webmaps.arb.ca.gov/ccimap/)
+This is a large data set that contains a comprehensive list of climate change adaptation and mitigation projects throughout California. The data includes the amount spent in these projects, funding source, and some include the location. We have decided to pick the Energy Efficiency and Energy Reduction programs because these have the most complete data. 
+
 ## Scope of analysis and resulting visualizations
 
-We want to visualize the amount of investments and types of affordable housing being developed in the region to understand if it is proportional to the community’s need. Similarly, we want to identify if higher income areas are receiving more funding allocation for climate change adaptation and mitigation projects compared to more vulnerable, and low-income areas. This would likely be several different maps with overlapping attributes and some graphs.
+We want to visualize the amount of investments and types of affordable housing being developed in the region to understand if it is proportional to the community’s need. Similarly, we want to identify if higher income areas are receiving more funding allocation for energy efficiency and energy saving projects/programs compared to more vulnerable, and low-income areas. This would likely be several different maps with overlapping attributes and some graphs.
 
 ## Research Insights
 
 We hope to identify areas that could be targeted for future investments and identify which areas might be getting over invested. We also would like to know where the funding for these projects are coming from, perhaps compare federal versus state funding sources and what agencies are in charge of distributing the funds. We could also learn who are the key stakeholders in the decision-making process. 
+
