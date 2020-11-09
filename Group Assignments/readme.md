@@ -34,7 +34,7 @@ HCIDLA financed projects from 2003 to present. These projects are financed with 
 [CalEnviroScreen Dataset](https://oehha.ca.gov/calenviroscreen/sb535)
 This dataset identifies “Disadvantaged Communities” which are targeted for investments that aim to improve public health, quality of life, and economic opportunity in California’s most burdened communities while also reducing pollution that causes climate change.
 
-### California Climate Investments Program 
+#### California Climate Investments Program 
 [California Climate Investments Program](https://webmaps.arb.ca.gov/ccimap/)
 This is a large data set that contains a comprehensive list of climate change adaptation and mitigation projects throughout California. The data includes the amount spent in these projects, funding source, and some include the location. We have decided to pick the Energy Efficiency and Energy Reduction programs because these have the most complete data. 
 
