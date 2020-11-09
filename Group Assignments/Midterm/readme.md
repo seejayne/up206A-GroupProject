@@ -1,6 +1,6 @@
 ## Note: For the midterm project we have two jupyter notebooks
 
-- AffordableHousing (1).ipynb
+- AffordableHousing.ipynb
 - (add Laura's notebook filename here)
 
 Jayne worked on the Affordable Housing one while Laura focused on the Climate one.
